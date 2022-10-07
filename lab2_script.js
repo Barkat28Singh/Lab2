@@ -1,4 +1,4 @@
-document.querySelector("header").style.backgroundColor = "blue";
+document.querySelector("header").style.backgroundColor = "pink";
 document.querySelector("header").style.textAlign = "center";
 
 document.querySelector("nav").style.border = "2px solid red";
