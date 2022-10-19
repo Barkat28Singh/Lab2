@@ -1,4 +1,3 @@
-
 document.querySelector("header").style.backgroundColor = "pink";
 document.querySelector("header").style.textAlign = "center";
 document.querySelector("header").style.border = "2px solid green";
